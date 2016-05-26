@@ -14,4 +14,8 @@ Directories Included:
   * A runnable jar file for a tic-tac-toe game  
   * (aka noughts and crosses)  
  2. Sound  
-  * A runnable jar file for an application which plays a word associated with an image. The app can switch between three languages.    
+  * A runnable jar file for an application which plays a word associated with an image. The app can switch between three languages.  
+  
+![alt app_image](https://github.com/daraghwalshe/Java-GUI/blob/master/images/ttt.PNG)
+<hr />
+<img src="https://github.com/daraghwalshe/Java-GUI/blob/master/images/ttt.PNG" width="100">
