@@ -17,4 +17,4 @@ Directories Included:
   * A runnable jar file for an application which plays a word associated with an image. The app can switch between three languages.  
   * 
   
-![alt app_image](https://github.com/daraghwalshe/Java-GUI/blob/master/images/ttt.PNG)
+![alt app_image](https://github.com/daraghwalshe/Java-GUI/blob/master/images/ttt.PNG =100x100)
