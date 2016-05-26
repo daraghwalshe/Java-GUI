@@ -9,4 +9,9 @@ Directories Included:
  2. cheesyWords  
   * A GUI container holding 2 seperate applications  
   * A counting game in three languages  
-  * An application to track mouse cutsor movement  
+  * An application to track mouse cursor movement  
+ 1. Tic Tac Toe 
+  * A runnable jar file for a tic-tac-toe game  
+  * (aka noughts and crosses)  
+ 2. Sound  
+  * A runnable jar file for an application which plays a word associated with an image. The app can switch between three languages.    
