@@ -1,5 +1,5 @@
 # Java-GUI
-###Building GUI interfaces for some simple apps using Swing
+### Building GUI interfaces for some simple apps using Swing
 
 
 Directories Included:  
@@ -17,8 +17,9 @@ Directories Included:
   * A runnable jar file for an application which plays a word associated with an image. The app can switch between three languages.  
 
 <hr />
-<img src="https://github.com/daraghwalshe/Java-GUI/blob/master/images/ttt.PNG" width="300"> . . . . . 
+<img src="https://github.com/daraghwalshe/Java-GUI/blob/master/images/ttt.PNG" width="300">
 <img src="https://github.com/daraghwalshe/Java-GUI/blob/master/images/words.PNG" width="500">
 <hr />
-<img src="https://github.com/daraghwalshe/Java-GUI/blob/master/images/cheese.PNG" width="500"> . . . . . 
+<img src="https://github.com/daraghwalshe/Java-GUI/blob/master/images/cheese.PNG" width="500">
 <img src="https://github.com/daraghwalshe/Java-GUI/blob/master/images/chess.PNG" width="300">
+<hr />
